@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Peter Griffin",
+    "home": "Quahog, Rhode Island",
+    "partners": "Louis Griffin",
+    "children": "Meg, Chris, Stewie",
+    "firstEpisodeAppearance": "Pilot episode"
+  },
+  {
+    "name": "Brian Griffin",
+    "home": "Quahog, Rhode Island",
+    "partners": null,
+    "children": "Dylan Flannigan",
+    "firstEpisodeAppearance": "Pilot episode"
+  },
+  {
+    "name": "Joe Swanson",
+    "home": "Quahog, Rhode Island",
+    "partners": "Bonnie Swanson",
+    "children": "Susie, Kevin",
+    "firstEpisodeAppearance": "S1 E5"
+  },
+  {
+    "name": "Cleveland Brown",
+    "home": "Quahog, Rhode Island",
+    "partners": "Loretta Brown, Donna Tubbs-Brown",
+    "children": "Cleveland Brown Jr., Roberta Tubbs, Rallo Tubbs",
+    "firstEpisodeAppearance": "Pilot episode"
+  },
+  {
+    "name": "Adam West",
+    "home": "Quahog, Rhode Island",
+    "partners": "Carol West",
+    "children": "Robin West",
+    "firstEpisodeAppearance": "S2 E12"
+  }
+]
